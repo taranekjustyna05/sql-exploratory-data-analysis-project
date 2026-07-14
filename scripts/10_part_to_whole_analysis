@@ -8,7 +8,7 @@ Purpose:
     - Useful for A/B testing or regional comparisons.
 
 SQL Functions Used:
-    - SUM(), AVG(), CONCAT(), ROUND(), CAST()
+    - SUM(), AVG()
     - Window Functions: SUM() OVER() 
 ===============================================================================
 */
