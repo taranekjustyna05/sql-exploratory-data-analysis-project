@@ -1,0 +1,16 @@
+/*
+=================================================================
+Database exploration
+=================================================================
+Purpose:
+    - To explore the structure of the database, including the list 
+    of tables and their schemas.
+=================================================================
+*/
+
+-- Explore all objects in the database
+SELECT * FROM INFORMATION_SCHEMA.TABLES
+
+-- Explore all columns in the database
+SELECT * FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'dim_customers'
