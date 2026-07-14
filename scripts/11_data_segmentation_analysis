@@ -7,8 +7,8 @@ Purpose:
     - For customer segmentation, product categorization, or regional analysis.
 
 SQL Functions Used:
-    - CASE: Defines custom segmentation logic.
-    - GROUP BY: Groups data into segments.
+    - CASE
+    - GROUP BY
 ===============================================================================
 */
 
